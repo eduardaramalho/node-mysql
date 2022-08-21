@@ -8,4 +8,5 @@ mysql
 ---------
 
 create database databaseName
+
 use databaseName
